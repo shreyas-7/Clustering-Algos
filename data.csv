@@ -1,0 +1,101 @@
+Customer ID ,Contact ,Company name,Products purchased,Meeting date,Next meeting date,Meeting output,Revenue ,Company Type,Company location 
+130,9099232063,Wef-QHB-XPa-RJE,CASH CREDIT,4/6/2016,7/20/2016,Active ,91439,Application Service Provider ,Mumbai
+247,9201396862,CYr-Gib-ZSI-zcD,TERM LOAN,3/5/2016,9/22/2016,Successful ,51694,Goverment/Military,Ahmedbad 
+383,9066159958,Dzp-qHZ-lAT-ZNK,E-DFS,4/19/2016,10/23/2016,Unsuccessful ,82805,Service Provider,Kanpur
+477,9547270234,uZp-uLD-Csm-buC,E-VFS,4/4/2016,8/6/2016,Successful ,52888,Data/telecom OEM,Kolkata
+990,9824631319,MIL-asi-CSY-XNp,ABL,1/4/2016,7/27/2016,Unsuccessful ,8565,Management Service provider,Pune
+289,9958718811,sTz-tok-uND-Pld,BILL DISCOUNTING,3/11/2016,11/24/2016,Active ,16615,System Integrator,Delhi 
+580,9938778770,qpg-ecX-kwj-Kqm,NON-FUNDED,1/11/2016,12/4/2016,Unsuccessful ,11871,Wireless Industry ,Chennai
+678,9309884592,FJZ-trQ-lAy-GaW,FLEET FINANCING,1/12/2016,8/22/2016,Successful ,4870,Service Provider,Bangalore
+30,9460161361,iXQ-rWj-xzD-Lxf,CGTMSE,6/23/2016,10/7/2016,Active ,28779,Data/telecom OEM,Hyderabad
+775,9969323546,Cks-lIC-jmB-Xtw,RENT PLUS,6/25/2016,11/14/2016,Active ,4742,Management Service provider,Kanpur
+19,9718984613,sLP-ZjA-Hyu-yhZ,DOCTOR PLUS,6/1/2016,10/4/2016,Active ,33326,System Integrator,Kolkata
+926,9431460178,CaQ-ptg-JsT-GsD,SCHOOL PLUS,3/18/2016,9/12/2016,Successful ,77648,Wireless Industry ,Pune
+174,9994254484,csW-xEr-whM-sSh,SME CAR LOAN,2/1/2016,10/24/2016,Unsuccessful ,26676,Data/telecom OEM,Delhi 
+143,9885755239,nAX-ccS-uZP-ILF,LOAN AGAINST WHR,1/13/2016,8/2/2016,Active ,27063,Management Service provider,Mumbai
+468,9279006377,HtG-Itf-bRw-oiD,MUDRA,5/6/2016,11/20/2016,Unsuccessful ,76994,System Integrator,Ahmedbad 
+302,9110131953,gTb-qmd-SlA-cQm,STAND UP INDIA,3/24/2016,10/28/2016,Successful ,99412,Wireless Industry ,Kanpur
+764,9082460066,sqM-KOq-Nca-hrN,FRANCHISE FINANCE,4/8/2016,9/25/2016,Active ,8986,Service Provider,Kolkata
+423,9419913540,cbt-ggl-lMr-CDp,E-DFS,3/6/2016,10/14/2016,Active ,88585,Data/telecom OEM,Pune
+708,9614221147,BWu-iJw-KEy-PBh,E-VFS,3/19/2016,11/19/2016,Unsuccessful ,22085,Management Service provider,Delhi 
+163,9608849542,MtF-SrO-All-KUg,ABL,6/26/2016,9/27/2016,Successful ,41731,System Integrator,Chennai
+507,9949116638,nTL-Hmy-FOb-QoK,BILL DISCOUNTING,1/17/2016,12/25/2016,Active ,66656,Management Service provider,Bangalore
+419,9223369100,xhi-DcQ-mWU-lNn,NON-FUNDED,1/10/2016,9/26/2016,Active ,37361,System Integrator,Hyderabad
+964,9923345523,wjw-FNI-wqj-SBR,FLEET FINANCING,6/26/2016,7/17/2016,Active ,88110,Wireless Industry ,Ahmedbad 
+510,9902747395,fre-TwK-bBy-dit,CGTMSE,2/11/2016,11/18/2016,Successful ,68827,Service Provider,Kanpur
+233,9290262754,iYt-BtB-ETJ-ast,RENT PLUS,3/7/2016,10/13/2016,Successful ,10692,Data/telecom OEM,Kolkata
+759,9589969657,xbO-Nkg-fRk-QUC,DOCTOR PLUS,4/20/2016,8/21/2016,Successful ,30238,Management Service provider,Pune
+84,9210156770,StM-UGE-rFZ-UTW,CGTMSE,4/20/2016,9/8/2016,Successful ,80000,System Integrator,Delhi 
+947,9495827010,nGH-PUl-cxX-FXp,RENT PLUS,2/3/2016,12/15/2016,Unsuccessful ,27127,Wireless Industry ,Chennai
+541,9838874586,PHL-Jfl-foQ-YTo,DOCTOR PLUS,1/7/2016,11/10/2016,Successful ,92896,Data/telecom OEM,Bangalore
+697,9178590169,KEx-iDu-kDq-Pfg,SCHOOL PLUS,2/4/2016,8/11/2016,Active ,36595,Management Service provider,Hyderabad
+788,9156501832,ybo-WXj-YXp-TDE,SME CAR LOAN,2/14/2016,10/2/2016,Active ,85715,System Integrator,Kanpur
+730,9500733433,aYr-rUq-UPE-knd,LOAN AGAINST WHR,5/9/2016,11/4/2016,Active ,57458,Wireless Industry ,Kolkata
+993,9775940326,dCJ-pSQ-yta-ClF,MUDRA,3/30/2016,9/26/2016,Successful ,58180,Goverment/Military,Pune
+811,9755355701,GRM-zNJ-GUT-IbG,STAND UP INDIA,5/9/2016,7/19/2016,Active ,97468,Service Provider,Delhi 
+434,9979840849,lDH-ckT-bXm-OYF,FRANCHISE FINANCE,4/29/2016,12/14/2016,Successful ,13617,Data/telecom OEM,Kanpur
+809,9897464794,Ypt-GyU-QPW-IAR,E-DFS,6/27/2016,9/2/2016,Unsuccessful ,27141,Management Service provider,Kolkata
+654,9324193039,pZR-UIL-xrX-AOP,E-VFS,1/27/2016,12/4/2016,Successful ,6472,System Integrator,Pune
+932,9482027594,abh-fwk-rFS-jop,ABL,4/7/2016,9/19/2016,Unsuccessful ,33005,Wireless Industry ,Delhi 
+325,9257432590,Otf-pOB-RzE-yHP,BILL DISCOUNTING,6/22/2016,7/20/2016,Active ,86260,Service Provider,Mumbai
+828,9668711618,UPG-FQA-RrP-Rtr,NON-FUNDED,2/29/2016,8/6/2016,Unsuccessful ,73257,Data/telecom OEM,Ahmedbad 
+606,9633956099,AFI-sjX-ykE-fGx,FLEET FINANCING,6/13/2016,11/15/2016,Successful ,92196,Management Service provider,Kanpur
+445,9045760294,Rer-mfK-CBz-Kcz,CGTMSE,3/27/2016,8/28/2016,Active ,24264,System Integrator,Kolkata
+104,9510800213,jQn-lnJ-dds-UnB,CASH CREDIT,3/31/2016,12/16/2016,Active ,68640,Wireless Industry ,Pune
+732,9018375916,dGE-RKP-eYQ-jbJ,TERM LOAN,4/25/2016,8/31/2016,Active ,99174,Data/telecom OEM,Delhi 
+832,9196583916,KPP-mWC-rUK-zDp,E-DFS,6/7/2016,10/4/2016,Successful ,25091,Management Service provider,Chennai
+292,9629543272,Dad-HeC-OPa-NRI,E-VFS,1/13/2016,9/21/2016,Unsuccessful ,6817,System Integrator,Bangalore
+977,9375250182,FYw-GbK-caO-UQT,ABL,4/30/2016,12/19/2016,Active ,16771,Wireless Industry ,Hyderabad
+217,9107094371,BoB-bHc-FwG-Zwg,BILL DISCOUNTING,2/24/2016,7/24/2016,Successful ,97343,Service Provider,Ahmedbad 
+896,9401855178,xmU-ImP-jbz-tTT,NON-FUNDED,1/9/2016,10/4/2016,Active ,94560,Data/telecom OEM,Kanpur
+252,9984362370,GpG-DpR-MOn-TYq,FLEET FINANCING,6/29/2016,9/10/2016,Active ,62677,Management Service provider,Kolkata
+273,9289009548,PbJ-Nou-Pmm-fWQ,CGTMSE,4/20/2016,10/25/2016,Unsuccessful ,84308,System Integrator,Kanpur
+567,9335025674,oMd-GcK-ADI-DPy,RENT PLUS,6/10/2016,9/9/2016,Successful ,40186,Management Service provider,Kolkata
+618,9653009844,dmx-pSc-ZHC-kHn,DOCTOR PLUS,2/7/2016,9/12/2016,Active ,50901,System Integrator,Pune
+575,9916954967,MEX-Urc-Hsm-Qoc,SCHOOL PLUS,2/19/2016,11/29/2016,Active ,44429,Wireless Industry ,Delhi 
+866,9875150950,jEN-XgO-pGY-Ffb,SME CAR LOAN,1/15/2016,11/11/2016,Active ,33128,Goverment/Military,Mumbai
+858,9739823332,kuU-odX-uMM-keX,LOAN AGAINST WHR,2/7/2016,10/13/2016,Successful ,63703,Service Provider,Ahmedbad 
+153,9446413667,kES-KRa-ulo-Ytc,MUDRA,4/17/2016,7/14/2016,Successful ,44693,Data/telecom OEM,Kanpur
+499,9452734819,aAb-DqX-ZbY-orb,STAND UP INDIA,6/26/2016,9/4/2016,Successful ,54430,Management Service provider,Kolkata
+635,9230957281,Ngd-ExJ-mRR-lIe,FRANCHISE FINANCE,1/7/2016,12/21/2016,Successful ,64173,System Integrator,Pune
+404,9720802736,GNP-ExY-jsn-qdP,E-DFS,4/19/2016,8/14/2016,Unsuccessful ,53200,Wireless Industry ,Delhi 
+906,9394241385,fHn-usU-xGp-uWs,E-VFS,2/9/2016,12/7/2016,Successful ,42183,Service Provider,Chennai
+592,9859876958,Gbq-gCM-GXi-jGK,ABL,2/29/2016,7/19/2016,Active ,74261,Data/telecom OEM,Bangalore
+530,9530182512,lKQ-KIw-FXZ-lEK,BILL DISCOUNTING,3/29/2016,12/14/2016,Active ,51398,Management Service provider,Hyderabad
+883,9074384811,Xhn-ilI-ozz-Ohn,NON-FUNDED,3/5/2016,12/16/2016,Active ,51282,System Integrator,Ahmedbad 
+376,9846959356,giz-DNx-upS-Hqk,FLEET FINANCING,6/25/2016,11/8/2016,Successful ,3883,Wireless Industry ,Kanpur
+666,9649551516,zJK-PBB-uHN-WBX,CGTMSE,3/10/2016,10/3/2016,Active ,63519,Data/telecom OEM,Kolkata
+392,9565650345,gty-fsi-mtU-HEP,RENT PLUS,3/17/2016,9/4/2016,Successful ,64538,Management Service provider,Pune
+25,9121314411,WCI-eDj-utz-ztc,DOCTOR PLUS,3/26/2016,12/16/2016,Unsuccessful ,36967,System Integrator,Delhi 
+844,9746443063,jJy-cZO-wai-nOm,CGTMSE,5/13/2016,9/26/2016,Successful ,63596,Wireless Industry ,Chennai
+910,9310294195,jaL-BiG-bhK-MuD,RENT PLUS,1/13/2016,7/17/2016,Unsuccessful ,35323,Service Provider,Bangalore
+959,9365370336,czU-FyY-CGO-BXw,DOCTOR PLUS,2/11/2016,10/10/2016,Active ,19386,Data/telecom OEM,Hyderabad
+45,9795600597,KPx-IRH-YOQ-EuM,SCHOOL PLUS,3/11/2016,9/21/2016,Unsuccessful ,65450,Management Service provider,Kanpur
+193,9696137286,dCq-edm-FLg-lXW,SME CAR LOAN,5/11/2016,10/6/2016,Successful ,53885,System Integrator,Kolkata
+51,9261158405,BzR-ibr-Pmo-MoR,LOAN AGAINST WHR,6/26/2016,8/24/2016,Active ,96706,Management Service provider,Pune
+200,9526135014,IzI-POK-LKb-SKC,MUDRA,3/4/2016,9/8/2016,Successful ,98581,System Integrator,Delhi 
+344,9003387769,QpI-zRC-RHL-IsS,STAND UP INDIA,6/29/2016,12/20/2016,Unsuccessful ,6684,Wireless Industry ,Kanpur
+332,9350708764,DQo-ESX-UHp-MZo,FRANCHISE FINANCE,2/4/2016,9/21/2016,Successful ,1462,Service Provider,Kolkata
+10,9160826159,Ghj-Rio-XLj-YLk,E-DFS,6/26/2016,7/24/2016,Unsuccessful ,47317,Data/telecom OEM,Pune
+131,9039766404,Ndn-KIF-aiT-AwN,E-VFS,1/9/2016,7/12/2016,Active ,5289,Management Service provider,Hyderabad
+796,9024773932,YcE-JmC-iuZ-STo,ABL,6/5/2016,7/3/2016,Unsuccessful ,97607,System Integrator,Kanpur
+740,9670619881,DLJ-qgw-jNW-LLU,BILL DISCOUNTING,4/20/2016,12/24/2016,Successful ,39193,Wireless Industry ,Kolkata
+118,9590884087,obS-XFr-Ddu-fCe,NON-FUNDED,6/23/2016,10/25/2016,Active ,27606,Data/telecom OEM,Pune
+680,9767130964,IfP-DwL-eEp-ykH,FLEET FINANCING,3/31/2016,10/2/2016,Active ,85961,Management Service provider,Delhi 
+555,9134156476,GHr-MYw-GIW-ENf,CGTMSE,5/27/2016,11/14/2016,Active ,20350,System Integrator,Mumbai
+93,9054235123,zXM-SxJ-Gfw-wiz,DOCTOR PLUS,6/14/2016,8/29/2016,Successful ,44306,Wireless Industry ,Ahmedbad 
+875,9348112104,hEj-ghW-XDX-MtY,CGTMSE,6/4/2016,10/1/2016,Unsuccessful ,76816,Goverment/Military,Kanpur
+488,9783963393,ogI-jaB-DTc-ybu,RENT PLUS,3/14/2016,10/20/2016,Active ,96122,Service Provider,Kolkata
+228,9866933823,cTy-GMu-UWB-tde,DOCTOR PLUS,4/14/2016,12/6/2016,Successful ,87406,Data/telecom OEM,Pune
+649,9573640526,LFf-pGo-Cog-ROn,SCHOOL PLUS,2/24/2016,8/13/2016,Active ,77083,Management Service provider,Delhi 
+710,9186942123,jqc-YCA-AlH-Nxx,SME CAR LOAN,4/20/2016,9/12/2016,Active ,72804,System Integrator,Chennai
+363,9470010040,qDJ-sJO-YMO-HyC,LOAN AGAINST WHR,2/14/2016,11/21/2016,Unsuccessful ,1408,Wireless Industry ,Bangalore
+451,9426113669,xHc-ILD-SRf-eCi,MUDRA,1/17/2016,8/20/2016,Successful ,89171,Service Provider,Hyderabad
+624,9818099671,BlQ-kUF-EJl-ngl,STAND UP INDIA,3/30/2016,12/3/2016,Active ,83602,Data/telecom OEM,Ahmedbad 
+189,9684935255,mwM-pzk-BEG-TqD,FRANCHISE FINANCE,6/18/2016,11/27/2016,Active ,4848,Management Service provider,Kanpur
+79,9147125168,ziX-mtp-RFk-rka,E-DFS,2/10/2016,11/18/2016,Active ,24299,System Integrator,Kolkata
+529,9247590784,BFr-sMC-HLC-zhG,E-VFS,5/31/2016,12/11/2016,Successful ,30851,Wireless Industry ,Pune
+70,9382450591,Jdx-uMp-eRs-xeB,ABL,5/29/2016,7/30/2016,Successful ,52249,Data/telecom OEM,Delhi 
+260,9555933228,ocm-mup-jJJ-Mgm,BILL DISCOUNTING,4/25/2016,10/28/2016,Successful ,15161,Management Service provider,Chennai
+319,9702818125,ypT-OaG-kbe-dik,NON-FUNDED,6/1/2016,10/1/2016,Active ,4603,Data/telecom OEM,Bangalore
+354,9802352163,DfQ-Fmd-EBe-LFH,FLEET FINANCING,4/12/2016,7/31/2016,Active ,80102,Management Service provider,Hyderabad
